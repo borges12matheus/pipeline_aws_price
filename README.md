@@ -14,7 +14,7 @@ O fluxo separa a etapa de **ingestão pré-tratada** (script Python) da **análi
 
 ### **Bibliotecas Python**
 ```bash
-pip install boto3 pandas matplotlib seaborn joblib graphviz scikit-learn
+pip install boto3 pandas matplotlib seaborn joblib scikit-learn
 ```
 
 ### **Credenciais AWS**
@@ -50,7 +50,7 @@ python extrair_precos_ec2.py
 ```
 
 ### **Etapa 2 – Análise Exploratória**
-- Notebook: `notebooks/analise_precos_ec2.ipynb`
+- Notebook: `analise_precos_ec2.ipynb`
 - Passos:
   1. Carregar `custos_aws_ec2_on_demand.csv`.
   2. Criar métricas adicionais (EX: `price_per_vcpu`, `price_per_gb`).
@@ -124,5 +124,10 @@ y_pred = modelo.predict(novos_dados)
 
 ---
 
-## 📌 7. Contato
-Para dúvidas ou melhorias, entre em contato com o autor do projeto.
+## 📌 7. Dúvidas ou melhorias
+
+## **💬 Contact**  
+
+📧 **Email:** borgesmatheus1201@email.com  
+🐍 **GitHub:** [borges12matheus](https://github.com/borges12matheus)  
+🔗 **LinkedIn:** [matheusborges12](https://www.linkedin.com/in/matheusborges12/)
