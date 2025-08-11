@@ -1,0 +1,3 @@
+cenario,r2,mae,rmse,mape,n_train,n_test,timestamp
+Modelo Normal,0.9868543820154773,,0.5309365792498352,,,,2025-08-11T15:36:11Z
+Modelo com Outliers,0.9549757738621619,,3.8907227586201447,,,,2025-08-11T15:36:11Z
