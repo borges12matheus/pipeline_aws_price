@@ -126,7 +126,7 @@ y_pred = modelo.predict(novos_dados)
 
 ## 📌 7. Dúvidas ou melhorias
 
-## **💬 Contact**  
+## **💬 Contato**  
 
 📧 **Email:** borgesmatheus1201@email.com  
 🐍 **GitHub:** [borges12matheus](https://github.com/borges12matheus)  
