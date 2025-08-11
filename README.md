@@ -5,6 +5,7 @@ Este projeto implementa um **pipeline híbrido** para coleta, tratamento, análi
 O fluxo separa a etapa de **ingestão pré-tratada** (script Python) da **análise exploratória e modelagem** (notebook), garantindo **reprodutibilidade, flexibilidade e escalabilidade**.
 
 📊 **Diagrama do Fluxo:**
+
 ![Fluxo do Pipeline](diagramas/fluxo_coleta_analise_aws.png)
 
 ---
