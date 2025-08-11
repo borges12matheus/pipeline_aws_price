@@ -128,6 +128,6 @@ y_pred = modelo.predict(novos_dados)
 
 ## **💬 Contato**  
 
-📧 **Email:** borgesmatheus1201@email.com  
+📧 **Email:** borgesmatheus1201@gmail.com  
 🐍 **GitHub:** [borges12matheus](https://github.com/borges12matheus)  
 🔗 **LinkedIn:** [matheusborges12](https://www.linkedin.com/in/matheusborges12/)
